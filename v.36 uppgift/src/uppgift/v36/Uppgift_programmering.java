@@ -33,7 +33,7 @@ public class Uppgift_programmering {
 	 System.out.println(postcode +  city);
 	 System.out.println("Telefon: " + number);
 	 
-	 
+	 input.close();
 	}
 
 }
